@@ -1,0 +1,20 @@
+{
+    "SIT": "8",
+    "SELECT_YOURSELF": "F1",
+    "INVENTORY": "I",
+    "FRIENDS": "F",
+    "MAP": "M",
+    "FOLLOW": "P",
+    "MOUNT": "Space",
+    "PET_FOOD": "0",
+    "BUFF_1": "9",
+    "BUFF_2": "9",
+    "POTION_HP": "6",
+    "POTION_MP": "7",
+    "SKILL_1": "5",
+    "SKILL_2": "2",
+    "SKILL_3": "3",
+    "SKILL_4": "1",
+    "SKILL_5": "4",
+    "SKILL_6": "3"
+}
