@@ -113,3 +113,19 @@
 ### Apoie o Projeto
 - PIX: `dae13311-4775-4973-849f-ad7d17ccbe8c`
 - PayPal: `tonirogerio7@gmail.com`
+
+### Agradecimentos
+Gostaria de expressar minha sincera gratidão a todos que contribuíram para este projeto:
+
+- A todos os usuários que testaram o bot e forneceram feedback valioso
+- À comunidade que compartilhou conhecimento e soluções
+- A você, por escolher usar o T-R0XX BOT
+
+---
+
+### Acknowledgments
+I would like to express my sincere gratitude to everyone who contributed to this project:
+
+- To all users who tested the bot and provided valuable feedback
+- To the community who shared knowledge and solutions
+- To you, for choosing to use T-R0XX BOT
