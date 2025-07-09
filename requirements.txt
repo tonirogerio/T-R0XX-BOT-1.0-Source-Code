@@ -1,0 +1,11 @@
+PyQt6>=6.0.0
+pymem>=1.0
+opencv-python>=4.5.0
+numpy>=1.19.0
+Pillow>=8.0.0
+psutil>=5.8.0
+pynput>=1.7.0
+win32gui>=221.6
+win32ui>=221.6
+win32con>=221.6
+pywin32>=228
