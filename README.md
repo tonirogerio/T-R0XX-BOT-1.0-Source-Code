@@ -31,9 +31,6 @@
 
 ### System Requirements
 - **OS**: Windows 10/11 (64-bit)
-- **Processor**: Intel Core i5 or equivalent
-- **Memory**: 8GB RAM
-- **Graphics**: NVIDIA GTX 1050 or equivalent
 - **Storage**: 2GB available space
 - **Python**: 3.8 or higher
 
@@ -88,9 +85,6 @@
 
 ### Requisitos do Sistema
 - **Sistema Operacional**: Windows 10/11 (64-bit)
-- **Processador**: Intel Core i5 ou equivalente
-- **Memória**: 8GB RAM
-- **Placa de Vídeo**: NVIDIA GTX 1050 ou equivalente
 - **Armazenamento**: 2GB de espaço disponível
 - **Python**: 3.8 ou superior
 
